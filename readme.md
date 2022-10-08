@@ -7,8 +7,10 @@
 > Status: Developing 📐
  + automate 
  + add clickable pages
- + add clickadle ahref
+ + add a href
  
  ## Technologies Used:
  - HTML5
  - SASS
+ ## Deploy
+ + https://galleriaa.netlify.app
